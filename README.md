@@ -14,7 +14,7 @@ Aplikacja bazodanowa umożliwia dodawanie i zarządzanie rekordami w bazie danyc
 
 ## Struktura projektu
 
-- `proba3.py`
+- `aplikacja1.py`
 - `database(1).db`
 - `README.md`
 
